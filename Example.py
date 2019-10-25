@@ -18,3 +18,5 @@ for element in b.flat:  # Iterate over all elements of the array
 
 for e in c:
 	print(e)
+
+# End of Sample????
